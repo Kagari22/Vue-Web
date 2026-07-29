@@ -108,7 +108,7 @@ export default {
       favoritesOnly: false,
       favoriteNames: [],
       linkItems: [
-        { name: '原题库', url: 'http://yuantiji.ac/zh/', note: '搜索比赛原题', category: '题库与评测' },
+        { name: '原题机', url: 'http://yuantiji.ac/zh/', note: '搜索比赛原题', category: '题库与评测' },
         { name: 'CPC Finder', url: 'https://cpcfinder.com/', note: '查找 XCPC 选手和区域赛信息', category: '榜单与选手' },
         { name: 'XCPC ELO', url: 'https://zzzzzzyt.github.io/xcpc-elo/', note: '查看 XCPC 选手与 ELO 分数', category: '榜单与选手' },
         { name: 'RankLand', url: 'https://rl.algoux.org/', note: '历年赛事榜单合集', category: '榜单与选手' },
