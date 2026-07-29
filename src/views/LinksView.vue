@@ -137,6 +137,7 @@ export default {
         { name: 'ACDLadders', url: 'https://www.acodedaily.com/', note: 'Codeforces 不同难度精选题', category: '训练工具' },
         { name: 'DP 专题（AtCoder）', url: 'https://atcoder.jp/contests/dp/tasks', note: 'AtCoder DP 专题训练', category: '题库与评测' },
         { name: 'CCPCOJ 外榜', url: 'https://cpc.csgrandeur.cn/outrank', note: 'CCPC 外榜', category: '榜单与选手' },
+        { name: 'xcpc rating', url: 'https://hei-maom.github.io/xcpcrating/#/', note: '选手积分与赛事数据', category: '榜单与选手'},
       ],
     }
   },
