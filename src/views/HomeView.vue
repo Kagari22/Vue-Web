@@ -16,7 +16,7 @@
           <h2>Kagari's Web</h2>
         </div>
 
-        <p>算法竞赛爱好者 | XCPCer | 全栈开发学习中</p>
+        <p>算法竞赛爱好者 | XCPCer | C++学习中</p>
 
         <div class="social-links">
           <a class="social-button" href="https://github.com/Kagari22" target="_blank" rel="noopener noreferrer" aria-label="Open Kagari22 GitHub profile">
