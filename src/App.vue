@@ -18,7 +18,7 @@
       <ul class="nav-links" :class="{ 'nav-links-locked': routeLocked }">
         <li>
           <a
-            href="/"
+            :href="baseUrl"
             :class="{ active: $route.path === '/' }"
             @click.prevent="handleNavClick('/')"
           >
@@ -109,6 +109,7 @@ export default {
   },
   data() {
     return {
+      baseUrl: import.meta.env.BASE_URL,
       toolsOpen: false,
       trailEnabled: true,
       glassEnabled: true,
